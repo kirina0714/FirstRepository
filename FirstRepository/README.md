@@ -1,0 +1,2 @@
+# FirstRepository
+Gitの勉強をするために作った初めてのリポジトリ
